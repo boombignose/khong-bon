@@ -1,0 +1,29 @@
+{
+  "title": "น้ำยาล้างจานอยากมีงานทำ",
+  "character": {
+    "name": "ขวดน้ำยาผู้ว่างงาน",
+    "appearance": "An original unbranded amber dish-soap bottle with a teal pump dispenser, two kind oval eyes and a small smiling mouth on the front. No label text, no arms or legs.",
+    "voice": "Thai adult female voice, bright medium pitch, friendly playful delivery"
+  },
+  "setting": "A warm home kitchen sink beside an ivory ceramic mug with no face; the bottle is the sole character",
+  "scenes": [
+    {
+      "action": "Looks toward the dirty mug and then addresses camera.",
+      "camera": "Medium close-up, locked camera",
+      "line": "ซื้อฉันมาตั้งนาน\nยังไม่ได้ล้างแก้วเลยค่ะ",
+      "duration": 8
+    },
+    {
+      "action": "Raises an eyebrow with a playful expression.",
+      "camera": "Gentle slow push-in",
+      "line": "แก้วไม่ได้สะอาด\nด้วยการมองนะคะ",
+      "duration": 8
+    },
+    {
+      "action": "Gives a welcoming smile, holds expression after speaking.",
+      "camera": "Close-up, locked camera",
+      "line": "วันนี้ให้ฉันมีงานทำ\nล้างแก้วกันค่ะ",
+      "duration": 8
+    }
+  ]
+}
