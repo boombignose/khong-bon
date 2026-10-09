@@ -12,7 +12,7 @@ kit = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(kit)
 errors = []
 required = ['README.md', 'LICENSE', 'WORKFLOW.md', 'AGENTS.md', 'THIRD_PARTY_NOTICES.md',
-            'docs/DEMO.md', 'docs/TEST-REPORT.md', 'docs/PROMOTION.md', 'assets/banner.svg',
+            'docs/DEMO.md', 'docs/TEST-REPORT.md', 'assets/banner.svg',
             'skills/khong-bon/SKILL.md', 'skills/khong-bon/assets/OFL.txt',
             'skills/khong-bon/assets/NotoSansThai.ttf', '.github/workflows/check.yml']
 for name in required:
