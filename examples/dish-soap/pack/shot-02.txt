@@ -1,0 +1,12 @@
+Vertical 9:16, 8-second stylized 3D animation. Exactly one talking object.
+CHARACTER: An original unbranded amber dish-soap bottle with a teal pump dispenser, two kind oval eyes and a small smiling mouth on the front. No label text, no arms or legs.
+SETTING: A warm home kitchen sink beside an ivory ceramic mug with no face; the bottle is the sole character
+VOICE: Thai adult female voice, bright medium pitch, friendly playful delivery
+CAMERA: Gentle slow push-in
+ACTION: Raises an eyebrow with a playful expression.
+The object is the sole speaker. Animate its mouth while it speaks naturally in Thai.
+Speak only this exact line, from about 0.6s, finish by 7.4s, then hold the expression:
+"แก้วไม่ได้สะอาด ด้วยการมองนะคะ"
+Keep the object's shape, colors, face, props, background and voice consistent with the approved reference.
+No humans, additional speakers, extra limbs, written captions, music or logos.
+Leave the bottom 22 percent clear for subtitles added in editing. Use gentle room tone.
