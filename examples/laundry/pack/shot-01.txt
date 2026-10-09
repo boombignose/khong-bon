@@ -1,0 +1,12 @@
+Vertical 9:16, 8-second stylized 3D animation. Exactly one talking object.
+CHARACTER: A pale mint-green woven plastic laundry basket, slightly overflowing with a blue shirt and white towel. Two oval eyes and an exasperated mouth on the front. No arms or legs.
+SETTING: A small tidy laundry corner with a washing machine in the blurred background
+VOICE: Thai adult female voice, warm medium pitch, playful exasperation
+CAMERA: Medium close-up, locked camera
+ACTION: Looks at the small pile of laundry, then at camera. Clothes remain unchanged.
+The object is the sole speaker. Animate its mouth while it speaks naturally in Thai.
+Speak only this exact line, from about 0.6s, finish by 7.4s, then hold the expression:
+"ผ้าเมื่อวานยังอยู่ วันนี้มาเพิ่มอีกแล้ว"
+Keep the object's shape, colors, face, props, background and voice consistent with the approved reference.
+No humans, additional speakers, extra limbs, written captions, music or logos.
+Leave the bottom 22 percent clear for subtitles added in editing. Use gentle room tone.
