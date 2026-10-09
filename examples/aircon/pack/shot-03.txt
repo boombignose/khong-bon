@@ -1,0 +1,12 @@
+Vertical 9:16, 8-second stylized 3D animation. Exactly one talking object.
+CHARACTER: A white wall-mounted air conditioner with two sleepy oval eyes and a small expressive mouth on the front panel. Vent stays open at the same angle, no arms or legs.
+SETTING: A tidy bedroom with a plain beige wall, closed window and a folded blanket; no humans
+VOICE: Thai adult male voice, soft medium pitch, weary sarcastic humor
+CAMERA: Close-up, locked camera
+ACTION: Gives a small knowing smile, then holds still.
+The object is the sole speaker. Animate its mouth while it speaks naturally in Thai.
+Speak only this exact line, from about 0.6s, finish by 7.4s, then hold the expression:
+"หนาวก็ปรับผมหน่อย ผมไม่มีรีโมตเองครับ"
+Keep the object's shape, colors, face, props, background and voice consistent with the approved reference.
+No humans, additional speakers, extra limbs, written captions, music or logos.
+Leave the bottom 22 percent clear for subtitles added in editing. Use gentle room tone.

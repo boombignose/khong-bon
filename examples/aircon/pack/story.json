@@ -1,0 +1,29 @@
+{
+  "title": "หนาวก็ปิดผมสิครับ",
+  "character": {
+    "name": "แอร์ขี้บ่น",
+    "appearance": "A white wall-mounted air conditioner with two sleepy oval eyes and a small expressive mouth on the front panel. Vent stays open at the same angle, no arms or legs.",
+    "voice": "Thai adult male voice, soft medium pitch, weary sarcastic humor"
+  },
+  "setting": "A tidy bedroom with a plain beige wall, closed window and a folded blanket; no humans",
+  "scenes": [
+    {
+      "action": "Glances at the folded blanket, then addresses camera.",
+      "camera": "Medium close-up, locked camera",
+      "line": "เปิดผมจนหนาว\nแล้วห่มผ้าสามชั้น",
+      "duration": 8
+    },
+    {
+      "action": "Raises both eyebrows, mouth moves only while speaking.",
+      "camera": "Gentle slow push-in",
+      "line": "จะให้ห้องเป็นตู้เย็น\nหรือจะนอนครับ",
+      "duration": 8
+    },
+    {
+      "action": "Gives a small knowing smile, then holds still.",
+      "camera": "Close-up, locked camera",
+      "line": "หนาวก็ปรับผมหน่อย\nผมไม่มีรีโมตเองครับ",
+      "duration": 8
+    }
+  ]
+}
