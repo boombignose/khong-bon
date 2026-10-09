@@ -152,7 +152,6 @@ python3 -c "from pathlib import Path; import shutil; shutil.copytree('skills/kho
 | [แก้ว](examples/mug/story.json) / [แอร์](examples/aircon/story.json) / [ตะกร้า](examples/laundry/story.json) / [น้ำยา](examples/dish-soap/story.json) | ตัวอย่างบทพร้อมรัน |
 | [สคริปต์](skills/khong-bon/scripts/khong_bon.py) | check · pack · assemble |
 | [ผลตรวจ](docs/TEST-REPORT.md) | สิ่งที่ทดสอบจริงและข้อที่ยังต้องตรวจ |
-| [ข้อความแจก](docs/PROMOTION.md) | ร่างโพสต์ Facebook / Kruoop |
 
 ```sh
 python3 -m unittest discover -s tests -v
