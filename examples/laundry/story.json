@@ -1,0 +1,29 @@
+{
+  "title": "ตะกร้าหรือโกดัง",
+  "character": {
+    "name": "ตะกร้าผ้าผู้แบกโลก",
+    "appearance": "A pale mint-green woven plastic laundry basket, slightly overflowing with a blue shirt and white towel. Two oval eyes and an exasperated mouth on the front. No arms or legs.",
+    "voice": "Thai adult female voice, warm medium pitch, playful exasperation"
+  },
+  "setting": "A small tidy laundry corner with a washing machine in the blurred background",
+  "scenes": [
+    {
+      "action": "Looks at the small pile of laundry, then at camera. Clothes remain unchanged.",
+      "camera": "Medium close-up, locked camera",
+      "line": "ผ้าเมื่อวานยังอยู่\nวันนี้มาเพิ่มอีกแล้ว",
+      "duration": 8
+    },
+    {
+      "action": "Raises an eyebrow, looks into the lens.",
+      "camera": "Gentle slow push-in",
+      "line": "บอกว่าจะซักพรุ่งนี้\nพรุ่งนี้ของเดือนอะไรคะ",
+      "duration": 8
+    },
+    {
+      "action": "Pauses and gives an unimpressed look.",
+      "camera": "Close-up, locked camera",
+      "line": "ฉันเป็นตะกร้าผ้า\nไม่ใช่โกดังค่ะ",
+      "duration": 8
+    }
+  ]
+}
