@@ -1,0 +1,29 @@
+{
+  "title": "แก้วโปรดที่ไม่เคยถูกล้าง",
+  "character": {
+    "name": "แก้วโปรด",
+    "appearance": "An ivory ceramic coffee mug with a mustard-yellow handle on camera-right, a small brown coffee stain at the rim, two dark oval eyes, expressive eyebrows and a simple mouth on the front. No arms or legs.",
+    "voice": "Thai adult male voice, medium-low pitch, tired dry humor, natural conversational pace"
+  },
+  "setting": "A teal kitchen counter in a warm home kitchen; soft morning window light",
+  "scenes": [
+    {
+      "action": "Looks directly at camera, raises one eyebrow, subtle mouth movement. The mug remains stationary.",
+      "camera": "Medium close-up, locked camera",
+      "line": "เรียกผมว่าแก้วโปรด\nแต่ไม่เคยล้างผมเลย",
+      "duration": 8
+    },
+    {
+      "action": "Looks down at the coffee stain, then back at camera with a resigned expression. No human enters.",
+      "camera": "Gentle slow push-in",
+      "line": "กาแฟหมดตั้งแต่เช้า\nคราบยังอยู่ถึงวันศุกร์",
+      "duration": 8
+    },
+    {
+      "action": "Pauses, then gives a dry unimpressed look and holds the final expression.",
+      "camera": "Close-up, locked camera",
+      "line": "ผมเป็นแก้วกาแฟ\nไม่ใช่โหลหมักครับ",
+      "duration": 8
+    }
+  ]
+}

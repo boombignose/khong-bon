@@ -1,0 +1,12 @@
+Vertical 9:16, 8-second stylized 3D animation. Exactly one talking object.
+CHARACTER: An ivory ceramic coffee mug with a mustard-yellow handle on camera-right, a small brown coffee stain at the rim, two dark oval eyes, expressive eyebrows and a simple mouth on the front. No arms or legs.
+SETTING: A teal kitchen counter in a warm home kitchen; soft morning window light
+VOICE: Thai adult male voice, medium-low pitch, tired dry humor, natural conversational pace
+CAMERA: Gentle slow push-in
+ACTION: Looks down at the coffee stain, then back at camera with a resigned expression. No human enters.
+The object is the sole speaker. Animate its mouth while it speaks naturally in Thai.
+Speak only this exact line, from about 0.6s, finish by 7.4s, then hold the expression:
+"กาแฟหมดตั้งแต่เช้า คราบยังอยู่ถึงวันศุกร์"
+Keep the object's shape, colors, face, props, background and voice consistent with the approved reference.
+No humans, additional speakers, extra limbs, written captions, music or logos.
+Leave the bottom 22 percent clear for subtitles added in editing. Use gentle room tone.
